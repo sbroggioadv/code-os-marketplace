@@ -25,7 +25,7 @@ Licença pessoal, intransferível, não exclusiva e revogável para:
 Sem autorização escrita do titular, é vedado:
 
 - copiar, redistribuir, publicar, sublicenciar, vender, alugar, emprestar ou ceder o plugin ou qualquer parte dele;
-- fazer fork público, espelhar, republicar ou empacotar este repositório em outro marketplace;
+- espelhar, republicar ou empacotar este repositório em outro marketplace — o fork que os Termos de Serviço do GitHub (seção D.5) permitem dentro da própria plataforma serve apenas à visualização ali e **não confere licença de uso, instalação, execução ou redistribuição** do plugin;
 - extrair skills, agentes, hooks, scripts, `espec/`, templates ou manual para uso em outro produto, curso, mentoria, plugin ou serviço;
 - remover, ocultar ou alterar avisos de titularidade e esta licença;
 - usar o código, no todo ou em parte, para treinar modelos ou para gerar obra derivada concorrente;
